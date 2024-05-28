@@ -1,0 +1,8 @@
+tensorflow[and-cuda]
+tensorflow-datasets
+tensorflow-ranking
+nvidia-tensorrt
+matplotlib
+ipykernel
+pandas
+numpy
